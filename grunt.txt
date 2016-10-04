@@ -1,0 +1,25 @@
+1.Acceder al directorio por terminal
+
+2.debemos instalar grunt-cli de manera global   npm install grunt-cli -g
+3.debemos instalar grunt-cli de manera local    npm install grunt-cli --save-dev
+4.debemos instalar la tarea de grunt por ejemplo npm install grunt-contrib-connect --save-dev
+5.configurar la tarea en Gruntfile
+ 
+ connect:{
+      main:{
+        options:{
+          base: '',
+          hostname: '*',
+          port:1337,
+          useAvailablePort: true,
+          livereload: true,
+          
+          open:{
+            target: 'http://127.0.0.1:1337'
+          }
+        }
+      }
+    }
+//Se pone coma al final de la configuración de la tarea, solamente cuando hay otra tarea por delante.
+
+6.registrar la tarea grunt.loadNpmTasks('grrunt-contrib-connect');

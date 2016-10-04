@@ -1,0 +1,16 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/Raul/Desktop/ejercicio16/lib/angular-route/index.js",
+        "C:/Users/Raul/Desktop/ejercicio16/lib/jquery/src/css/curCSS.js",
+        "C:/Users/Raul/Desktop/ejercicio16/lib/jquery/src/var/support.js",
+        "C:/Users/Raul/Desktop/ejercicio16/js/functions.min.js",
+        "C:/Users/Raul/Desktop/ejercicio16/lib/jquery/src/ajax.js",
+        "C:/Users/Raul/Desktop/app/lib/jquery/src/var/arr.js",
+        "C:/Users/Raul/Desktop/app/lib/MDBootstrap/js/tether.min.js",
+        "C:/Users/Raul/Desktop/app/lib/jquery/src/var/slice.js",
+        "C:/Users/Raul/Desktop/app/lib/jquery/src/callbacks.js",
+        "C:/Users/Raul/Desktop/codifika/lib/angular-material/modules/closure/progressCircular/progressCircular.js",
+        "C:/Users/Raul/Desktop/app/lib/jquery/src/deferred.js",
+        "C:/Users/Raul/Desktop/app.js"
+    ]
+}
